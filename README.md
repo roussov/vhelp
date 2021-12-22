@@ -8,6 +8,16 @@ Pour le lancemement d'analyses sur votre machine pour permettre la résolution d
 - Un DNS empêchant d'accéder à un site internet.
 - Perte d'un fichier sur la machine.
 
+# Vhelp ?
+
+C'est une boîte à outil permettant de réaliser de nombreux travaux automatisés.
+Le but est simple Vhelp aide:
+Pour le lancemement d'analyses sur votre machine pour permettre la résolution d'erreurs. Ces erreurs peuvent être variées:
+
+- Une erreur sur le réseau.
+- Un DNS empêchant d'accéder à un site internet.
+- Perte d'un fichier sur la machine.
+
 
 ## Pourquoi l'utiliser?
 
