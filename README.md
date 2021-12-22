@@ -20,7 +20,7 @@ Pour une première utilisation:
 
 ## Installer Vhelp sur Mac
 
-    ```zsh
+    ```bash
     git clone https://github.com/vincentrs92/vhelp/vhelp-mac
     cd vhelp-mac
     chmod +x install
@@ -28,11 +28,11 @@ Pour une première utilisation:
     ```
 
 ### Installer Vhelp sur Windows
-    ```console
+    ```powershell
     ```
 ### Lancer le programme sur Mac et Windows
 
-    ```console
+    ```powershell
     vhelp <commande>
     ```
 
