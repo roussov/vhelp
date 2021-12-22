@@ -16,7 +16,7 @@ Personne ne peut être assez puissant pour résoudre chaque problème présent s
 
 Malgré le manque d'une interface graphique vhelp permet à chacun de lancer d'une commande le plus simplement et rapidement possible.
 
-Pour une première utilisation:
+Pour une première utilisation :
 
 ## Installer Vhelp sur Mac
 
