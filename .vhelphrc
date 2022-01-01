@@ -1,0 +1,6 @@
+#vhelp Configuration file
+
+
+export ZSH="$Home/.vhelp.sh
+
+source $VHELP/vhelp.sh

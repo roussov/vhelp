@@ -27,16 +27,6 @@ chmod +x install
 ./install
 ```
 
-### Installer Vhelp sur Windows
-```powershell
-```
-### Lancer le programme sur Mac et Windows
-
-```powershell
-vhelp <commande>
-```
-
-
 
 ## Les principales commandes
 ### Les commandes Vhelp de base Mac et Windows
