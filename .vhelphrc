@@ -1,6 +1,0 @@
-#vhelp Configuration file
-
-
-export VHELP="$Home/.vhelp.sh"
-
-source $VHELP/vhelp.sh
