@@ -39,7 +39,7 @@ Personne ne peut être assez puissant pour résoudre chaque problème présent s
 > _nanorc_ .
 
 
-_configuration du fichier nanorc après l'installation de Vhelp (par défaut)_ :
+_configuration du fichier bashrc après l'installation de Vhelp (par défaut)_ :
 ```console
 ##############################
 ###Vhelp by vincentrs
