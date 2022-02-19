@@ -14,15 +14,12 @@ Le but est simple Vhelp aide:
 - Vous renseigner sur les caractéristques de votre machine
 
 *Vhelp* vous fera bénéficier d'une documentation sur :
-- Shell
-
 
 
 ## Nouveautés
 
 ================
 
-[Alias](https://doc.ubuntu-fr.org/alias)  Documentation sur la commande Unix _Alias_.
 
 ## Pourquoi l'utiliser?
 
@@ -34,37 +31,28 @@ Personne ne peut être assez puissant pour résoudre chaque problème présent s
 > de scripts qui ne demande pas
 > d'être executé par l'utilisateur.
 > Chaque script sera testé pour le bon fonctionnement
-> de la machine du client.
-> Les commandes liés aux scripts seront lancés à partir du fichier de configuration
-> _nanorc_ .
-
-
-_configuration du fichier bashrc après l'installation de Vhelp (par défaut)_ :
-```console
-##############################
-###Vhelp by vincentrs
-###Vhelp alias commands
-###version test
-alias vhelp -h = "sh /usr/src/vhelp-help.sh"
-alias vhelp -d = "sh /usr/src/vhelp_doc.sh"
-alias vhelp -maj = "sh /usr/src/default-script/vhelp_majsys.sh"
-alias vhelp -@ = "firefox https://vincentrs92.github.io/wiki-vhelp/"
-###@vincentrs - Vhelp Project
-###############################
-```
+> de la machine de l'utilisateur.
 
 
 
 
 
-## Pour une première utilisation :
+## Pour une première utilisation:
 
 ### Installer Vhelp sur Linux
 
+### Installation manuelle
+
+Par le biais de le la commande Git Clone téléchargez le "vhelp":
+
 ```sh
-git clone https://github.com/vincentrs92/vhelp.git
+git clone https://github.com/vincentrs92/vhelp.git ~/.zsh/zsh-vhelp
 ```
 
+Pour activer le projet à la vhelp ajoutez:
+```sh
+source ~/.zsh/zsh-vhelp/zsh-vhelp.zsh
+```
 
 ### Les commandes de bases
 
