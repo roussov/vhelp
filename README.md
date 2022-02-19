@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 C'est une boîte à outil permettant de réaliser de nombreux travaux automatisés.
-Le but est simple Vhelp aide:
+Le but est simple vhelp aide:
 
 
 
@@ -27,7 +27,7 @@ Vhelp est un programme très utile dans la vie de chacun.
 Personne ne peut être assez puissant pour résoudre chaque problème présent sur sa machine.
 
 ### Sa configuration
-> Vhelp se base sur un système
+> vhelp se base sur un système
 > de scripts qui ne demande pas
 > d'être executé par l'utilisateur.
 > Chaque script sera testé pour le bon fonctionnement
@@ -39,11 +39,11 @@ Personne ne peut être assez puissant pour résoudre chaque problème présent s
 
 ## Pour une première utilisation:
 
-### Installer Vhelp sur Linux
+### Installer vhelp sur Linux
 
-### Installation manuelle
+#### Installation manuelle
 
-Par le biais de le la commande Git Clone téléchargez le "vhelp":
+Par le biais de le la commande Git Clone téléchargez "vhelp":
 
 ```sh
 git clone https://github.com/vincentrs92/vhelp.git ~/.zsh/zsh-vhelp
@@ -102,7 +102,7 @@ Ce programme est en cours de réalisation.
 La plupart des scripts ne sont pas encore codés et testés.
 Comme vous l'aurez compris Vhelp sera d'abord disponible sur Linux.
 
-[Vhelp Github](https://github.com/vincentrs92/vhelp) Code source du projet
+[vhelp Github](https://github.com/vincentrs92/vhelp) Code source du projet
 
 
 # Créateur du projet
