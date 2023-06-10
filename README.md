@@ -1,7 +1,7 @@
 # Vhelp
 ## _Appelle moi la boite à outil_
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 
 C'est une boîte à outil permettant de réaliser de nombreux travaux automatisés.
 Le but est simple vhelp aide:
@@ -13,7 +13,7 @@ Le but est simple vhelp aide:
 - Analyser votre sytème pour résoudre d'éventuelles erreurs
 - Vous renseigner sur les caractéristques de votre machine
 
-*Vhelp* vous fera bénéficier d'une documentation sur :
+*Vhelp* est un répertoire de scripts
 
 
 ## Nouveautés
@@ -46,7 +46,7 @@ Personne ne peut être assez puissant pour résoudre chaque problème présent s
 Par le biais de le la commande Git Clone téléchargez "vhelp":
 
 ```sh
-git clone https://github.com/vincentrs92/vhelp.git ~/.zsh/zsh-vhelp
+git clone https://github.com/vincentrs92/vhelp.git 
 ```
 
 
