@@ -3,7 +3,7 @@
 
 
 
-C'est une boîte à outil permettant de réaliser de nombreux travaux automatisés.
+C'est une boîte à outil permettant de réaliser de nombreux travaux.
 Le but est simple vhelp aide:
 
 
@@ -28,8 +28,8 @@ Personne ne peut être assez puissant pour résoudre chaque problème présent s
 
 ### Sa configuration
 > vhelp se base sur un système
-> de scripts qui ne demande pas
-> d'être executé par l'utilisateur.
+> de scripts qui demande d'être
+> executé par l'utilisateur.
 > Chaque script sera testé pour le bon fonctionnement
 > de la machine de l'utilisateur.
 
@@ -56,8 +56,8 @@ git clone https://github.com/roussov/vhelp.git
 ===================================
 
 # Version de Vhelp
-Ce dépot est en cours de réalisation.
-La plupart des scripts ne sont pas encore codés et testés.
+Ce dépot est en réalisation.
+Tous les scripts ne sont pas encore codés et testés.
 Comme vous l'aurez compris Vhelp sera d'abord disponible sur Linux.
 
 [vhelp Github](https://github.com/vincentrs92/vhelp) Code source du projet
