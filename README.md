@@ -49,7 +49,7 @@ Par le biais de le la commande Git Clone téléchargez "vhelp":
 git clone https://github.com/roussov/vhelp.git
 ```
 
-Pour rendre les scripts executable
+Pour rendre les scripts executables
 ```sh
 chmod +x nom_du_script.sh
 ```
@@ -64,7 +64,9 @@ Ce dépot est en réalisation.
 Tous les scripts ne sont pas encore codés et testés.
 Comme vous l'aurez compris Vhelp sera d'abord disponible sur Linux.
 
-[vhelp Github](https://github.com/vincentrs92/vhelp) Code source du projet
+### Code source du projet
+
+[vhelp Github](https://github.com/vincentrs92/vhelp) 
 
 
 # Créateur du projet
