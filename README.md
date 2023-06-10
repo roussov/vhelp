@@ -49,6 +49,10 @@ Par le biais de le la commande Git Clone téléchargez "vhelp":
 git clone https://github.com/roussov/vhelp.git
 ```
 
+Pour rendre les scripts executable
+```sh
+chmod +x nom_du_script.sh
+```
 
 
 
