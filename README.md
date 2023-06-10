@@ -46,7 +46,7 @@ Personne ne peut être assez puissant pour résoudre chaque problème présent s
 Par le biais de le la commande Git Clone téléchargez "vhelp":
 
 ```sh
-git clone https://github.com/vincentrs92/vhelp.git 
+git clone https://github.com/roussov/vhelp.git
 ```
 
 
