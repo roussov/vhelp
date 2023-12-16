@@ -51,7 +51,7 @@ git clone https://github.com/roussov/vhelp.git
 
 Pour rendre les scripts executables
 ```sh
-chmod +x nom_du_script.sh
+chmod +x <nom_du_script.sh>
 ```
 
 
